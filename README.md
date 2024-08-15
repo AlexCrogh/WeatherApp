@@ -57,17 +57,17 @@ weather-app/
 
 ## Technologies Used
 
-    - **HTML5:** Structure and content of the app.
-    - **CSS3:** Styling and layout (using Flexbox and Grid).
-    - **JavaScript:** Functionality and interactivity.
-    - **OpenWeatherMap API:** Fetching weather data.
+- **HTML5:** Structure and content of the app.
+- **CSS3:** Styling and layout (using Flexbox and Grid).
+- **JavaScript:** Functionality and interactivity.
+- **Open-Meteo API:** Fetching weather data.
 
 
 ## Setup and Installation
 
 To run the Weather App locally, follow these steps:
 
-    Clone the repository:
+Clone the repository:
 
 ```bash
 
@@ -88,16 +88,15 @@ If you want to run the app on a local server, you can use tools like live-server
 ```
 
 Usage
-
-    Search for a city: Enter the name of a city in the search bar and press enter.
-    View weather data: The app will display the current weather and a 5-day forecast for the selected city.
+Search for a city: Enter the name of a city in the search bar and press enter.
+View weather data: The app will display the current weather and a 5-day forecast for the selected city.
 
 ## API Reference
 
 The Weather App uses the OpenWeatherMap API to fetch weather data.
 
-    Base URL: https://open-meteo.com/
-    Endpoints Used:
+Base URL: https://open-meteo.com/
+Endpoints Used:
         
    
 
@@ -105,9 +104,9 @@ The Weather App uses the OpenWeatherMap API to fetch weather data.
 
 Contributions are welcome! If you'd like to contribute to the Weather App, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your feature (git checkout -b feature-branch).
-    Commit your changes (git commit -m 'Add new feature').
-    Push to the branch (git push origin feature-branch).
-    Create a Pull Request.
+Fork the repository.
+Create a new branch for your feature (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a Pull Request.
 
